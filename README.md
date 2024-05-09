@@ -24,4 +24,4 @@
 
 ## Community Videos
 * 🎬 [Building Conversational Agents | The Agent vs. Chatbot Difference | Priyanka Vergadia
-]([https://www.youtube.com/watch?v=Q6lUpRkk-eI&list=UULFPTgt4Wo0MAnuzNEEZlk90A](https://www.youtube.com/watch?v=z-gSUkLxUHY))
+](https://www.youtube.com/watch?v=z-gSUkLxUHY)
