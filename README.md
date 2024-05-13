@@ -1,5 +1,5 @@
 # Vertex-AI-Agent-Builder
-
+> Agent Builder is our low-code/no-code platform for building conversational agents.
 > A curated list of resources about all things for Vertex AI Agent Builder. Feel free to send Pull Requests!
 
 ## Product pages
@@ -17,6 +17,14 @@
 ## Blogs/Videos (Google Channels)(Updated from announcements at Google Cloud NEXT '24 only)
 
 ## Videos (Google Channels)
+* Training Videos
+  * 🎬 Preamble: https://www.youtube.com/watch?v=BygAJKpAuaU
+  * 🎬 Introduction: https://www.youtube.com/watch?v=cQfl3Nl3RXA
+  * 🎬 Tools: https://www.youtube.com/watch?v=bJfoa8SQT6g
+  * 🎬 Data Stores: https://www.youtube.com/watch?v=DTcDlsukutE
+  * 🎬 Personalization and Examples: https://www.youtube.com/watch?v=ILLWDaosMyA
+
+
 
 ## Community Blogs
 * 📰 [Agent Builder — Search App (Terraform + Python)](https://medium.com/google-cloud/vertex-search-and-conversation-364cdc591167)
