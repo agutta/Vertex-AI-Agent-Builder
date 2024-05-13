@@ -2,19 +2,28 @@
 > Agent Builder is our low-code/no-code platform for building conversational agents.
 > A curated list of resources about all things for Vertex AI Agent Builder. Feel free to send Pull Requests!
 
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project and [awesome Cloud Run](https://github.com/steren/awesome-cloud-run) list project.*
+
+*Legend*: 📙: doc, 📰: article, 📦: sample, 🎬: video, 🖼️: slides, ✏️: interactive tutorial, :headphones: : audio, 🛠️: tool
+
 ## Product pages
+
+* 📙 [Vertex AI Agent Builder]([https://cloud.google.com/products/gemini](https://cloud.google.com/generative-ai-app-builder/docs/introduction))
 
 ## Features
 
 
 ## Release Notes
-* 📙 [Release Notes](https://cloud.google.com/gemini/docs/release-notes)
+* 📙 [Release Notes]([https://cloud.google.com/gemini/docs/release-notes](https://cloud.google.com/generative-ai-app-builder/docs/release-notes))
 
+* Pricing
+* 📙 https://cloud.google.com/generative-ai-app-builder/pricing
+  
 ## Codelabs
 
 ## Repositories
 
-## Blogs/Videos (Google Channels)(Updated from announcements at Google Cloud NEXT '24 only)
+## Blogs (Google Channels)
 
 ## Videos (Google Channels)
 * Training Videos
