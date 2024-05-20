@@ -39,7 +39,7 @@
 * 📰 [Agent Builder — Search App (Terraform + Python)](https://medium.com/google-cloud/vertex-search-and-conversation-364cdc591167)
 * 📰 [Build Your Personalized GenAI Search Engine with Vertex AI Search: A Step-by-Step Guide](https://medium.com/google-cloud-for-startups/build-your-personalized-genai-search-engine-with-vertex-ai-search-a-step-by-step-guide-2a8c11c4a273)
 * 📰 [Intelligent Document Discovery with Vertex AI Search](https://medium.com/google-cloud/vertex-search-and-conversation-364cdc591167)
-* 📰 [Architectural Blueprints for RAG Automation: Advanced Document Understanding using Vertex AI Search]([https://medium.com/google-cloud/vertex-search-and-conversation-364cdc591167](https://medium.com/google-cloud/architectural-blueprints-for-rag-automation-advanced-document-understanding-using-vertex-ai-search-537ee9376847))
+* 📰 [Architectural Blueprints for RAG Automation: Advanced Document Understanding using Vertex AI Search](https://medium.com/google-cloud/architectural-blueprints-for-rag-automation-advanced-document-understanding-using-vertex-ai-search-537ee9376847)
 
 ## Community Videos
 * 🎬 [Building Conversational Agents | The Agent vs. Chatbot Difference | Priyanka Vergadia
