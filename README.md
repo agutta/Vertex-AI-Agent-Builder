@@ -8,13 +8,13 @@
 
 ## Product pages
 
-* 📙 [Vertex AI Agent Builder]([https://cloud.google.com/products/gemini](https://cloud.google.com/generative-ai-app-builder/docs/introduction))
+* 📙 [Vertex AI Agent Builder](https://cloud.google.com/generative-ai-app-builder/docs/introduction)
 
 ## Features
 
 
 ## Release Notes
-* 📙 [Release Notes]([https://cloud.google.com/gemini/docs/release-notes](https://cloud.google.com/generative-ai-app-builder/docs/release-notes))
+* 📙 [Release Notes](https://cloud.google.com/generative-ai-app-builder/docs/release-notes)
 
 * Pricing
 * 📙 https://cloud.google.com/generative-ai-app-builder/pricing
